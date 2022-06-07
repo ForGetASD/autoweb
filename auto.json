@@ -1,0 +1,33 @@
+{
+    "autok":[{
+        "márka": "BMW",
+        "szín": "fekete",
+        "évjárat": "2005",
+        "kép": "kepek/bmw.jpg"
+    },
+    {
+        "márka": "Audi",
+        "szín": "piros",
+        "évjárat": "2012",
+        "kép": "kepek/audi.jpg"
+    },
+    {
+        "márka": "Toyota",
+        "szín": "szurke",
+        "évjárat": "1997",
+        "kép": "kepek/toyota.jpg"
+    },
+    {
+        "márka": "Porsche",
+        "szín": "fehér",
+        "évjárat": "2010",
+        "kép": "kepek/porsche.jpg"
+    },
+    {
+        "márka": "Mercedes",
+        "szín": "fekete",
+        "évjárat": "2020",
+        "kép": "kepek/mercedes.jpg"
+    }
+    ]
+}

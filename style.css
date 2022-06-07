@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+main{
+    max-width: 1100px;
+    background-color: lightgray;
+    margin: auto;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    height: 40px;
+    border: 1px solid black;
+}
+
+ul{
+    margin-top: 10px;
+}
+
+li{
+    display: inline;
+    padding-left: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+}
+
+table{
+    min-width: 75%;
+    margin: auto;
+}
+
+img{
+    width: 100px;
+}
+
+td{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+
+.kepek{
+    width: 100%;
+}
+
+@media screen and (max-width:600px){
+    article{
+        overflow-x: scroll;
+    }
+}
